@@ -9,3 +9,7 @@ No, because it involves multiple components interacting, which is better suited 
 
 Part 3 2
 Yes, because it is a single, isolated piece of logic that can be easily tested independently.
+
+
+https://adutt1010.github.io/Lab5_Starter/expose.html
+https://adutt1010.github.io/Lab5_Starter/explore.html
